@@ -3,9 +3,14 @@ A coffee ordering system
 
     How to run the application?
             Run te Main.java file in the folder and answer the questions on the command line.
+            
     How to contact me?
             If any questions arise, contact me at antonioddrivera619@gmail.com
-    Description of each file:
+            
+            
+            
+Description of each file:
+
 
     BasicCoffee.java:
             Acts as a template for new coffee orders.
